@@ -19,3 +19,7 @@ pip install --upgrade pip && pip install -r requirement.txt
 
 3.- Ejecutar streamlit.
 streamlit run app.py
+
+## "render" URL
+
+https://veiculos-graficas.onrender.com/
