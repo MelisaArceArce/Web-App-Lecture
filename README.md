@@ -11,11 +11,12 @@ Este proyecto está pensado para ser visto desde el navegador usando "render", p
 
 ## Ejecución en Windows 11
 
-1.- ejecutar entorno virtual.
-.\vehicles_env\Scripts\Activate.ps1 
+1.- Si usará un entorno virtual recuerde primero acceder con este comando desde windows.
+.\<nombre del entorno virtual>\Scripts\Activate.ps1 
 
 2.- Instalar paquetes necesarios.
 pip install --upgrade pip && pip install -r requirement.txt 
+
 
 3.- Ejecutar streamlit.
 streamlit run app.py
